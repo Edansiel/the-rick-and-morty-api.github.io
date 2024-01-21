@@ -1,0 +1,1523 @@
+.style-0 {
+    cursor: auto;
+    background: rgb(32, 35, 41) none repeat scroll 0% 0% / auto padding-box border-box;
+    font-variant-ligatures: none;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    text-decoration-skip-ink: auto;
+    color: rgba(0, 0, 0, 0.8);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-weight: 400;
+    overflow-wrap: break-word;
+    font-kerning: normal;
+    font-feature-settings: 'kern', 'liga', 'clig', 'calt';
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.style-1 {
+    box-sizing: border-box;
+}
+
+.style-2 {
+    outline: none;
+    box-sizing: border-box;
+}
+
+
+.style-3 {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 60px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0);
+    position: relative;
+    z-index: 2;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    box-sizing: border-box;
+}
+
+.style-4 {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 0px auto;
+    width: 100%;
+    min-height: 60px;
+    padding: 0px 27px;
+    box-sizing: border-box;
+}
+
+.style-5 {
+    color: rgb(51, 51, 51);
+    border: 0px none rgb(51, 51, 51);
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    text-decoration: none solid rgb(51, 51, 51);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-6 {
+    fill: rgb(51, 51, 51);
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.style-7 {
+    box-sizing: border-box;
+}
+
+.style-8 {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 0px;
+    list-style-position: outside;
+    list-style-image: none;
+    box-sizing: border-box;
+}
+
+.style-9 {
+    margin-right: 31.5px;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-10 {
+    color: rgb(51, 51, 51);
+    border: 0px none rgb(51, 51, 51);
+    font-weight: 700;
+    border-bottom: 0px none rgb(51, 51, 51);
+    transition: all 0.1s ease 0s;
+    text-decoration: none solid rgb(51, 51, 51);
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-11 {
+    margin-right: 31.5px;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-12 {
+    color: rgb(51, 51, 51);
+    border: 0px none rgb(51, 51, 51);
+    font-weight: 700;
+    border-bottom: 0px none rgb(51, 51, 51);
+    transition: all 0.1s ease 0s;
+    text-decoration: none solid rgb(51, 51, 51);
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-13 {
+    margin: 0px;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-14 {
+    color: rgb(51, 51, 51);
+    border: 0px none rgb(51, 51, 51);
+    transition: all 0.1s ease 0s;
+    border-bottom: 0px none rgb(51, 51, 51);
+    text-decoration: none solid rgb(51, 51, 51);
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-15 {
+    transition: all 0.1s ease 0s;
+    margin: 0px;
+    border-radius: 9px;
+    padding: 9px 18px;
+    font-weight: 700;
+    border: 1px solid rgb(255, 152, 0);
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    color: rgb(51, 51, 51);
+    font-size: 13.5px;
+    text-transform: uppercase;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.style-16 {
+    display: none;
+    padding: 4.5px 9px;
+    transition: all 0.1s ease 0s;
+    margin: 0px;
+    background: rgb(255, 152, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 9px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-size: 13.5px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-17 {
+    font-size: 16px;
+    vertical-align: middle;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+
+.style-18 {
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-19 {
+    padding-top: 2px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    box-sizing: border-box;
+    display: block;
+}
+
+.style-20 {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-direction: column;
+    height: 246px;
+    text-align: center;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.style-21 {
+    margin: 0px;
+    color: rgb(32, 35, 41);
+    border: 0px none rgb(32, 35, 41);
+    font-weight: 900;
+    z-index: 1;
+    font-size: 101.25px;
+    border-bottom: 0px none rgb(32, 35, 41);
+    padding: 0px 0px 6.3125px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    text-rendering: optimizelegibility;
+    line-height: 111.375px;
+    box-sizing: border-box;
+}
+
+.style-22 {
+    position: absolute;
+    width: 100%;
+    height: 246px;
+    box-sizing: border-box;
+}
+
+.style-23 {
+    width: 100%;
+    height: 246px;
+    fill: rgb(245, 245, 245);
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.style-24 {
+    box-sizing: border-box;
+}
+
+.style-25 {
+    box-sizing: border-box;
+}
+
+.style-26 {
+    box-sizing: border-box;
+}
+
+.style-27 {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 81px 0px;
+    background: rgb(39, 43, 51) none repeat scroll 0% 0% / auto padding-box border-box;
+    min-height: 246px;
+    box-sizing: border-box;
+}
+
+.style-28 {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1920px;
+    box-sizing: border-box;
+}
+
+.style-29 {
+    width: 600px;
+    height: 220px;
+    display: flex;
+    overflow: hidden;
+    background: rgb(60, 62, 68) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 9px;
+    margin: 13.5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    box-sizing: border-box;
+}
+
+.style-30 {
+    flex: 2 1 0%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.style-31 {
+    width: 100%;
+    height: 220px;
+    margin: 0px;
+    opacity: 1;
+    transition: opacity 0.5s ease 0s;
+    object-position: 50% 50%;
+    object-fit: cover;
+    display: block;
+    max-width: 100%;
+    padding: 0px;
+    box-sizing: border-box;
+    border-style: none;
+}
+
+.style-32 {
+    flex: 3 1 0%;
+    position: relative;
+    padding: 13.5px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-33 {
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-34 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-35 {
+    font-size: 27px;
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 0px none rgb(245, 245, 245);
+    margin-top: 0px;
+    color: rgb(245, 245, 245);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-weight: 800;
+    text-rendering: optimizelegibility;
+    line-height: 29.7px;
+    box-sizing: border-box;
+}
+
+.style-36 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-37 {
+    height: 9px;
+    width: 0.5rem;
+    margin-right: 6.75px;
+    background: rgb(214, 61, 46) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 50%;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px 6.75px 0px 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-38 {
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.style-39 {
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-40 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-41 {
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-42 {
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-43 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-44 {
+    width: 600px;
+    height: 220px;
+    display: flex;
+    overflow: hidden;
+    background: rgb(60, 62, 68) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 9px;
+    margin: 13.5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    box-sizing: border-box;
+}
+
+.style-45 {
+    flex: 2 1 0%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.style-46 {
+    width: 100%;
+    height: 220px;
+    margin: 0px;
+    opacity: 1;
+    transition: opacity 0.5s ease 0s;
+    object-position: 50% 50%;
+    object-fit: cover;
+    display: block;
+    max-width: 100%;
+    padding: 0px;
+    box-sizing: border-box;
+    border-style: none;
+}
+
+.style-47 {
+    flex: 3 1 0%;
+    position: relative;
+    padding: 13.5px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-48 {
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-49 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-50 {
+    font-size: 27px;
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 0px none rgb(245, 245, 245);
+    margin-top: 0px;
+    color: rgb(245, 245, 245);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-weight: 800;
+    text-rendering: optimizelegibility;
+    line-height: 29.7px;
+    box-sizing: border-box;
+}
+
+.style-51 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-52 {
+    height: 9px;
+    width: 0.5rem;
+    margin-right: 6.75px;
+    background: rgb(85, 204, 68) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 50%;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px 6.75px 0px 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-53 {
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.style-54 {
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-55 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-56 {
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-57 {
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-58 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-59 {
+    width: 600px;
+    height: 220px;
+    display: flex;
+    overflow: hidden;
+    background: rgb(60, 62, 68) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 9px;
+    margin: 13.5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    box-sizing: border-box;
+}
+
+.style-60 {
+    flex: 2 1 0%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.style-61 {
+    width: 100%;
+    height: 220px;
+    margin: 0px;
+    opacity: 1;
+    transition: opacity 0.5s ease 0s;
+    object-position: 50% 50%;
+    object-fit: cover;
+    display: block;
+    max-width: 100%;
+    padding: 0px;
+    box-sizing: border-box;
+    border-style: none;
+}
+
+.style-62 {
+    flex: 3 1 0%;
+    position: relative;
+    padding: 13.5px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-63 {
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-64 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-65 {
+    font-size: 27px;
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 0px none rgb(245, 245, 245);
+    margin-top: 0px;
+    color: rgb(245, 245, 245);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-weight: 800;
+    text-rendering: optimizelegibility;
+    line-height: 29.7px;
+    box-sizing: border-box;
+}
+
+.style-66 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-67 {
+    height: 9px;
+    width: 0.5rem;
+    margin-right: 6.75px;
+    background: rgb(85, 204, 68) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 50%;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px 6.75px 0px 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-68 {
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.style-69 {
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-70 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-71 {
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-72 {
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-73 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-74 {
+    width: 600px;
+    height: 220px;
+    display: flex;
+    overflow: hidden;
+    background: rgb(60, 62, 68) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 9px;
+    margin: 13.5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    box-sizing: border-box;
+}
+
+.style-75 {
+    flex: 2 1 0%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.style-76 {
+    width: 100%;
+    height: 220px;
+    margin: 0px;
+    opacity: 1;
+    transition: opacity 0.5s ease 0s;
+    object-position: 50% 50%;
+    object-fit: cover;
+    display: block;
+    max-width: 100%;
+    padding: 0px;
+    box-sizing: border-box;
+    border-style: none;
+}
+
+.style-77 {
+    flex: 3 1 0%;
+    position: relative;
+    padding: 13.5px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-78 {
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-79 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-80 {
+    font-size: 27px;
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 0px none rgb(245, 245, 245);
+    margin-top: 0px;
+    color: rgb(245, 245, 245);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-weight: 800;
+    text-rendering: optimizelegibility;
+    line-height: 29.7px;
+    box-sizing: border-box;
+}
+
+.style-81 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-82 {
+    height: 9px;
+    width: 0.5rem;
+    margin-right: 6.75px;
+    background: rgb(85, 204, 68) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 50%;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px 6.75px 0px 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-83 {
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.style-84 {
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-85 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-86 {
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-87 {
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-88 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-89 {
+    width: 600px;
+    height: 220px;
+    display: flex;
+    overflow: hidden;
+    background: rgb(60, 62, 68) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 9px;
+    margin: 13.5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    box-sizing: border-box;
+}
+
+.style-90 {
+    flex: 2 1 0%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.style-91 {
+    width: 100%;
+    height: 220px;
+    margin: 0px;
+    opacity: 1;
+    transition: opacity 0.5s ease 0s;
+    object-position: 50% 50%;
+    object-fit: cover;
+    display: block;
+    max-width: 100%;
+    padding: 0px;
+    box-sizing: border-box;
+    border-style: none;
+}
+
+.style-92 {
+    flex: 3 1 0%;
+    position: relative;
+    padding: 13.5px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-93 {
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-94 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-95 {
+    font-size: 27px;
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 0px none rgb(245, 245, 245);
+    margin-top: 0px;
+    color: rgb(245, 245, 245);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-weight: 800;
+    text-rendering: optimizelegibility;
+    line-height: 29.7px;
+    box-sizing: border-box;
+}
+
+.style-96 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-97 {
+    height: 9px;
+    width: 0.5rem;
+    margin-right: 6.75px;
+    background: rgb(85, 204, 68) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 50%;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px 6.75px 0px 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-98 {
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.style-99 {
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-100 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-101 {
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-102 {
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-103 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-104 {
+    width: 600px;
+    height: 220px;
+    display: flex;
+    overflow: hidden;
+    background: rgb(60, 62, 68) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 9px;
+    margin: 13.5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    box-sizing: border-box;
+}
+
+.style-105 {
+    flex: 2 1 0%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.style-106 {
+    width: 100%;
+    height: 220px;
+    margin: 0px;
+    opacity: 1;
+    transition: opacity 0.5s ease 0s;
+    object-position: 50% 50%;
+    object-fit: cover;
+    display: block;
+    max-width: 100%;
+    padding: 0px;
+    box-sizing: border-box;
+    border-style: none;
+}
+
+.style-107 {
+    flex: 3 1 0%;
+    position: relative;
+    padding: 13.5px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-108 {
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-109 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-110 {
+    font-size: 27px;
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 0px none rgb(245, 245, 245);
+    margin-top: 0px;
+    color: rgb(245, 245, 245);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-weight: 800;
+    text-rendering: optimizelegibility;
+    line-height: 29.7px;
+    box-sizing: border-box;
+}
+
+.style-111 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-112 {
+    height: 9px;
+    width: 0.5rem;
+    margin-right: 6.75px;
+    background: rgb(214, 61, 46) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-radius: 50%;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px 6.75px 0px 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-113 {
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.style-114 {
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-115 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-116 {
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.style-117 {
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.style-118 {
+    color: rgb(245, 245, 245);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-119 {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-flow: column nowrap;
+    position: relative;
+    background: rgb(32, 35, 41) none repeat scroll 0% 0% / auto padding-box border-box;
+    color: rgb(158, 158, 158);
+    padding: 81px 0px;
+    min-height: 120px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.style-120 {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    margin-left: 0px;
+    list-style-position: outside;
+    list-style-image: none;
+    box-sizing: border-box;
+}
+
+.style-121 {
+    margin: 0px;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-122 {
+    color: rgb(158, 158, 158);
+    border-bottom: 0px none rgb(158, 158, 158);
+    transition: all 0.1s ease 0s;
+    text-decoration: none solid rgb(158, 158, 158);
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-123 {
+    margin: 0px;
+    font-size: 13.5px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-124 {
+    margin-left: 27px;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-125 {
+    color: rgb(158, 158, 158);
+    border-bottom: 0px none rgb(158, 158, 158);
+    transition: all 0.1s ease 0s;
+    text-decoration: none solid rgb(158, 158, 158);
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-126 {
+    margin: 0px;
+    font-size: 13.5px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-127 {
+    margin-left: 27px;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-128 {
+    color: rgb(158, 158, 158);
+    border-bottom: 0px none rgb(158, 158, 158);
+    transition: all 0.1s ease 0s;
+    text-decoration: none solid rgb(158, 158, 158);
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-129 {
+    margin: 0px;
+    font-size: 13.5px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-130 {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    color: rgb(158, 158, 158);
+    text-decoration: none solid rgb(158, 158, 158);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    margin-bottom: 10px;
+}
+
+.style-131 {
+    margin: 4.5px 9px;
+    font-size: 13.5px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    box-sizing: border-box;
+}
+
+.style-132 {
+    height: 9px;
+    width: 0.5rem;
+    border-radius: 50%;
+    background: rgb(85, 204, 68) none repeat scroll 0% 0% / auto padding-box border-box;
+    box-sizing: border-box;
+}
+
+.style-133 {
+    margin-top: 22.5px;
+    box-sizing: border-box;
+}
+
+.style-134 {
+    margin-right: 32px;
+    color: rgb(51, 51, 51);
+    text-decoration: none solid rgb(51, 51, 51);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-135 {
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.style-136 {
+    box-sizing: border-box;
+}
+
+.style-137 {
+    box-sizing: border-box;
+}
+
+.style-138 {
+    box-sizing: border-box;
+}
+
+.style-139 {
+    color: rgb(51, 51, 51);
+    text-decoration: none solid rgb(51, 51, 51);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-140 {
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.style-141 {
+    box-sizing: border-box;
+}
+
+.style-142 {
+    box-sizing: border-box;
+}
+
+.style-143 {
+    box-sizing: border-box;
+}
+
+.style-144 {
+    box-sizing: border-box;
+}
+
+.style-145 {
+    box-sizing: border-box;
+}
+
+.style-146 {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 22.5px 0px 0px;
+    padding: 0px;
+    width: 100%;
+    margin-top: 22.5px;
+    margin-left: 0px;
+    list-style-position: outside;
+    list-style-image: none;
+    box-sizing: border-box;
+}
+
+.style-147 {
+    margin: 0px;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-148 {
+    color: rgb(158, 158, 158);
+    border-bottom: 0px none rgb(158, 158, 158);
+    transition: all 0.1s ease 0s;
+    text-decoration: none solid rgb(158, 158, 158);
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-149 {
+    vertical-align: middle;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.style-150 {
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-151 {
+    margin-left: 27px;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-152 {
+    color: rgb(158, 158, 158);
+    border-bottom: 0px none rgb(158, 158, 158);
+    transition: all 0.1s ease 0s;
+    text-decoration: none solid rgb(158, 158, 158);
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-153 {
+    vertical-align: middle;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.style-154 {
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-155 {
+    margin-left: 27px;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-156 {
+    color: rgb(158, 158, 158);
+    border-bottom: 0px none rgb(158, 158, 158);
+    transition: all 0.1s ease 0s;
+    text-decoration: none solid rgb(158, 158, 158);
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-157 {
+    vertical-align: middle;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.style-158 {
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-159 {
+    margin-top: 22.5px;
+    box-sizing: border-box;
+}
+
+.style-160 {
+    font-size: 13.5px;
+    box-sizing: border-box;
+}
+
+.style-161 {
+    font-weight: 700;
+    transition: color 0.2s ease 0s;
+    color: rgb(245, 245, 245);
+    border-bottom: 1px solid rgb(255, 152, 0);
+    text-decoration: none solid rgb(245, 245, 245);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-162 {
+    font-size: 13.5px;
+    box-sizing: border-box;
+}
+
+.style-163 {
+    position: absolute;
+    top: 0;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
